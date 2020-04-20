@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://plilq.com</id>
-    <title>Gridea</title>
-    <updated>2020-04-19T15:35:11.797Z</updated>
+    <title>周鹏的博客</title>
+    <updated>2020-04-20T01:10:07.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://plilq.com"/>
     <link rel="self" href="https://plilq.com/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>我们终将毁于我们所热爱的东西</subtitle>
     <logo>https://plilq.com/images/avatar.png</logo>
     <icon>https://plilq.com/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 周鹏的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[标题测试]]></title>
+        <id>https://plilq.com/post/biao-ti-ce-shi/</id>
+        <link href="https://plilq.com/post/biao-ti-ce-shi/">
+        </link>
+        <updated>2020-04-19T15:39:10.000Z</updated>
+        <content type="html"><![CDATA[<p>测试</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://plilq.com/post/hello-gridea/</id>
