@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://plilq.com</id>
-    <title>周鹏的博客</title>
-    <updated>2020-04-29T02:57:16.972Z</updated>
+    <title>我的博客</title>
+    <updated>2020-04-29T06:40:37.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://plilq.com"/>
     <link rel="self" href="https://plilq.com/atom.xml"/>
     <subtitle>我们终将毁于我们所热爱的东西</subtitle>
     <logo>https://plilq.com/images/avatar.png</logo>
     <icon>https://plilq.com/favicon.ico</icon>
-    <rights>All rights reserved 2020, 周鹏的博客</rights>
+    <rights>All rights reserved 2020, 我的博客</rights>
     <entry>
         <title type="html"><![CDATA[标题测试]]></title>
         <id>https://plilq.com/post/biao-ti-ce-shi/</id>
