@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://plilq.com</id>
     <title>我的博客</title>
-    <updated>2020-05-07T14:58:53.850Z</updated>
+    <updated>2020-05-26T02:46:10.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://plilq.com"/>
     <link rel="self" href="https://plilq.com/atom.xml"/>
@@ -17,8 +17,7 @@
         </link>
         <updated>2020-04-19T15:39:10.000Z</updated>
         <content type="html"><![CDATA[<h2 id="为什么写博客">为什么写博客</h2>
-<p>科技进步促进了信息的爆炸化发展，碎片化、娱乐化信息占据着时间与空间。书写作为古老的信息载体，<br>
-在字词的表述与编辑中，会停下来思考片刻。</p>
+<p>记录与思考</p>
 <h2 id="写些什么">写些什么</h2>
 <p>没有计划写些什么，或许这是第一篇，或许也是最后一篇。</p>
 ]]></content>
