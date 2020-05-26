@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://plilq.com</id>
     <title>我的博客</title>
-    <updated>2020-05-26T02:55:49.204Z</updated>
+    <updated>2020-05-26T03:26:46.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://plilq.com"/>
     <link rel="self" href="https://plilq.com/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://plilq.com/images/avatar.png</logo>
     <icon>https://plilq.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 我的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[娱乐至死]]></title>
+        <id>https://plilq.com/post/yu-le-zhi-si/</id>
+        <link href="https://plilq.com/post/yu-le-zhi-si/">
+        </link>
+        <updated>2020-05-26T03:03:18.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>通过电视与网络媒介<br>
+一切都以娱乐的方式呈现<br>
+人类心甘情愿成为娱乐的附庸<br>
+最终成为娱乐至死的物种<br>
+我们将毁于我们所热爱的东西！<br>
+——尼尔·波兹曼</p>
+</blockquote>
+<h2 id="娱乐至死">《娱乐至死》</h2>
+<p>相对于&quot;老大哥&quot;的集权高压统治的未来社会模式，《娱乐至死》更接近于当代社会的现状。随着科学技术的发展，信息载体的形式也随之多样化，主要的信息传播途径从文字到图片，至现在的视频。信息的单位含量越来越大，反言之，快速的提取有效信息的难度也越来越大。大量商业资本的介入，占据着大量的传播渠道资源，娱乐化的信息开始大规模传播。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[这是我的第一篇博文]]></title>
         <id>https://plilq.com/post/biao-ti-ce-shi/</id>
